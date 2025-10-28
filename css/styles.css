@@ -28,7 +28,7 @@ body {
     color: #404BBF;
 }
 .contacts {
-    font-style: normal
+    font-style: normal;
 }
 .contacts .link {
     color: #434455;
@@ -102,7 +102,7 @@ body {
 .workers-list .text {
     font-size: 16px;
     line-height: 1.5;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
 }
 .portfolio-list .title {
     color: #2E2F42;
@@ -132,10 +132,10 @@ body {
     color: #4d5ae5;
 }
 .footer .page-logo .studio {
-    color: #f4f4fd
+    color: #f4f4fd;
 }
 .footer .text {
     color: #F4F4FD;
     line-height: 1.5;
-    letter-spacing: 0.02em
+    letter-spacing: 0.02em;
 }
