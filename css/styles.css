@@ -1,0 +1,84 @@
+body {
+    font-family: Roboto;
+    color: #434455;
+}
+.page-nav .link {
+    color: #2E2F42;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.page-nav .link:hover{
+    color: #404BBF;
+}
+.contacts .link {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.contacts .link:hover {
+    color: #404BBF;
+}
+.section-hero{
+    background-color: #2E2F42;
+}
+.page-title{
+    color: #ffffff;
+    font-size: 56px;
+    line-height: 1.071;
+    font-weight: 700;
+}
+.button{
+    color: #ffffff;
+    background-color: #4D5AE5;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.button:focus {
+    background-color: #404BBF;
+}
+.features-list .title {
+    color: #2E2F42;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+.features-list .text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.section-workers {
+    background-color: #F4F4FD;
+} 
+.section-title {
+    color: #2E2F42;
+    font-size: 36px;
+    line-height: 1.11;
+}
+.workers-list .title {
+    color: #2E2F42;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+
+}
+.workers-list .text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.portfolio-list .title {
+    color: #2E2F42;
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+}
+.portfolio-list .text {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.footer {
+    background-color: #2E2F42;
+}
+.footer .text {
+    color: #F4F4FD;
+}
